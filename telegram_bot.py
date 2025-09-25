@@ -2,7 +2,7 @@ import telebot
 import random
 
 # ТУТ встав свій токен від BotFather
-API_TOKEN = "8024668338:AAEva8zVoyvyjwBA5N4hFiYxpIv592zcnV4"
+API_TOKEN = "8024668338"
 
 bot = telebot.TeleBot(API_TOKEN)
 
